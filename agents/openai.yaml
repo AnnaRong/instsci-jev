@@ -1,0 +1,4 @@
+interface:
+  display_name: "InstSci + Jev"
+  short_description: "InstSci retrieval with optional Jev decisions"
+  default_prompt: "Use $instsci-jev for an InstSci publisher PDF, DOI batch, closed-access verification, or bounded Jev routing decision."
